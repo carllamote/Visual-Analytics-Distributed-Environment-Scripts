@@ -1,5 +1,6 @@
 # Visual-Analytics-Distributed-Environment-Scripts
 Scripts for Managing a SAS Visual Analytics Distributed Environment.
+IMPORTANT: These scripts only work for Visual Analytics based on the SAS 9.4 version.
 
 To install the scripts, follow these steps:
 
