@@ -28,4 +28,5 @@ To install the scripts, follow these steps:
 - sudo ./start.sh to start all SAS Services.
 - sudo ./status.sh to get the status of all SAS Services.
 - sudo ./stop.sh to stop all SAS Services.
+
 IMPORTANT: Always use sudo when running these commands!
